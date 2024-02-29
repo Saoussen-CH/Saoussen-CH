@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+
+I'm a Machine Learning Engineer by passion and profession ! I believe in harnessing the power of AI to level up both business services and people's lives. 
