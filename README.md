@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ## About me
 
-I'm a Machine Learning Engineer by passion and profession ! I believe in harnessing the power of AI to level up both businesses and people's lives. I get to be part of that and I invite you to join the ride.
+I'm a Machine Learning Engineer by passion and profession! I believe in harnessing the power of AI to level up both businesses and people's lives. I get to be part of that and I invite you to join me on the ride.
