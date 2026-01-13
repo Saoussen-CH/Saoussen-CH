@@ -1,4 +1,4 @@
-# Hi, I'm Saoussen Chaabnia 👋
+## Hi, I'm Saoussen Chaabnia 👋
 **AI/ML Solutions Engineer** | 3x GCP Certified | Building Intelligent Systems with Generative AI & Multi-Agent Architectures
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saoussen--ch.github.io-00d4ff?style=flat-square&logo=google-chrome&logoColor=white)](https://saoussen-ch.github.io/)
@@ -8,14 +8,14 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 I'm a Machine Learning Engineer by passion and profession! With hands-on experience building and deploying data, machine learning, and AI systems, my work spans AI solution architecture, MLOps, cloud-native pipelines, and applied Generative AI — including LLM-based and agentic systems. I believe in harnessing the power of AI to level up both businesses and people's lives, and I invite you to join me on the ride.
 
 - 🔭 Currently building and architecting  **Multi-Agent AI Systems**, **Agentic AI**, and **Production MLOps**
 
 ---
 
-## 🏅 Certifications
+### 🏅 Certifications
 ![GCP Data Engineer](https://img.shields.io/badge/GCP-Data_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GCP ML Engineer](https://img.shields.io/badge/GCP-ML_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GCP Cloud Engineer](https://img.shields.io/badge/GCP-Cloud_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
