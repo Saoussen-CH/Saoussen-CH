@@ -13,7 +13,7 @@
 
 I'm a Machine Learning Engineer by passion and profession! With hands-on experience building and deploying data, machine learning, and AI systems, my work spans AI solution architecture, MLOps, cloud-native pipelines, and applied Generative AI — including LLM-based and agentic systems. I believe in harnessing the power of AI to level up both businesses and people's lives, and I invite you to join me on the ride.
 
-- 🔭 Currently building and architecturing  **Multi-Agent AI Systems**, **Agentic AI**, and **Production MLOps**
+- 🔭 Currently building and architecting  **Multi-Agent AI Systems**, **Agentic AI**, and **Production MLOps**
 
 ---
 
@@ -31,7 +31,7 @@ I'm a Machine Learning Engineer by passion and profession! With hands-on experie
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saoussen-CH&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saoussen-CH&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
