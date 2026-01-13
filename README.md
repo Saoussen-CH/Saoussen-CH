@@ -19,20 +19,10 @@ I'm a Machine Learning Engineer by passion and profession! With hands-on experie
 
 ## 🏅 Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/GCP-Professional_Data_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-Professional_ML_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-Professional_Cloud_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-Developer_Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
+## 🏅 Certifications
+![GCP Data Engineer](https://img.shields.io/badge/GCP-Data_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GCP ML Engineer](https://img.shields.io/badge/GCP-ML_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GCP Cloud Engineer](https://img.shields.io/badge/GCP-Cloud_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Developer-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Saoussen-CH&color=00d4ff&style=flat-square)
----
-
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-</p>
