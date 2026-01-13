@@ -1,5 +1,5 @@
 ## Hi, I'm Saoussen Chaabnia 👋
-**AI/ML Solutions Engineer & consultant** | 3x GCP Certified | Building Intelligent Systems with Generative AI & Multi-Agent Architectures
+**AI/ML Solutions Engineer & consultant** | 3x GCP Certified | Building Intelligent Systems 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saoussen--ch.github.io-00d4ff?style=flat-square&logo=google-chrome&logoColor=white)](https://saoussen-ch.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saoussen-chaabnia/)
