@@ -1,19 +1,41 @@
-## Hi, I'm Saoussen Chaabnia 👋
+# Hi, I'm Saoussen Chaabnia 👋
 
-<!--
-**Saoussen-CH/Saoussen-CH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Solutions Engineer** | 3x GCP Certified | Building Intelligent Systems with Generative AI & Multi-Agent Architectures
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/Portfolio-saoussen--ch.github.io-00d4ff?style=flat-square&logo=google-chrome&logoColor=white)](https://saoussen-ch.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saoussen-chaabnia/)
+[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@saoussen.chaabnia)
+[![Substack](https://img.shields.io/badge/Substack-Subscribe-FF6719?style=flat-square&logo=substack&logoColor=white)](https://saoussenchaabnia.substack.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## About me
+---
 
-I'm a Machine Learning Engineer by passion and profession! I believe in harnessing the power of AI to level up both businesses and people's lives. I get to be part of that and I invite you to join me on the ride.
+## 🚀 About Me
+
+I'm a Machine Learning Engineer by passion and profession! With hands-on experience building and deploying data, machine learning, and AI systems, my work spans AI solution architecture, MLOps, cloud-native pipelines, and applied Generative AI — including LLM-based and agentic systems. I believe in harnessing the power of AI to level up both businesses and people's lives, and I invite you to join me on the ride.
+
+- 🔭 Currently building and architecturing  **Multi-Agent AI Systems**, **Agentic AI**, and **Production MLOps**
+
+---
+
+## 🏅 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/GCP-Professional_Data_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-Professional_ML_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-Professional_Cloud_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-Developer_Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saoussen-CH&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+</p>
