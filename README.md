@@ -30,10 +30,7 @@ I'm a Machine Learning Engineer by passion and profession! With hands-on experie
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saoussen-CH&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=Saoussen-CH&color=00d4ff&style=flat-square)
 ---
 
 <p align="center">
