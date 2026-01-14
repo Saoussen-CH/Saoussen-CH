@@ -6,12 +6,11 @@
 [![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@saoussen.chaabnia)
 [![Substack](https://img.shields.io/badge/Substack-Subscribe-FF6719?style=flat-square&logo=substack&logoColor=white)](https://saoussenchaabnia.substack.com/)
 ---
-#### 🚀 About Me
-I'm a Machine Learning Engineer by passion and profession! With hands-on experience building and deploying data, machine learning, and AI systems, my work spans AI solution architecture, MLOps, cloud-native pipelines, and applied Generative AI — including LLM-based and agentic systems. I believe in harnessing the power of AI to level up both businesses and people's lives, and I invite you to join me on the ride.
+I'm a Machine Learning Engineer by passion and profession! With hands-on experience building and deploying data, machine learning, and AI systems, my work spans AI solution architecture, MLOps, cloud-native pipelines, and applied Generative AI, including LLM-based and agentic systems. I believe in harnessing the power of AI to level up both businesses and people's lives, and I invite you to join me on the ride.
 
-- 🔭 Currently building and architecting  **Multi-Agent AI Systems**, **Agentic AI**, and **Production MLOps**
+- Currently building and architecting  **Multi-Agent AI Systems**, **Agentic AI**, and **Production MLOps**
 ---
-#### 🏅 Certifications
+#### Certifications
 ![GCP Data Engineer](https://img.shields.io/badge/GCP-Data_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GCP ML Engineer](https://img.shields.io/badge/GCP-ML_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GCP Cloud Engineer](https://img.shields.io/badge/GCP-Cloud_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
