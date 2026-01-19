@@ -14,6 +14,7 @@ I'm a Machine Learning Engineer by passion and profession! With hands-on experie
 ![GCP Data Engineer](https://img.shields.io/badge/GCP-Data_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GCP ML Engineer](https://img.shields.io/badge/GCP-ML_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GCP Cloud Engineer](https://img.shields.io/badge/GCP-Cloud_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Google PM](https://img.shields.io/badge/Google-Project_Management-4285F4?style=flat-square&logo=google&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Developer-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 
