@@ -2,7 +2,7 @@
 **AI/ML Solutions Engineer & consultant** | 3x GCP Certified | Building Intelligent Systems 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saoussen--chaabnia--ai.com-00d4ff?style=flat-square&logo=google-chrome&logoColor=white)](https://saoussen-chaabnia-ai.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saoussen-chaabnia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saoussen-chaabnia/)
 [![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@saoussen.chaabnia)
 [![Substack](https://img.shields.io/badge/Substack-Subscribe-FF6719?style=flat-square&logo=substack&logoColor=white)](https://saoussenchaabnia.substack.com/)
 [![Sessionize](https://img.shields.io/badge/Sessionize-Speaker-1AB394?style=flat-square&logo=sessionize&logoColor=white)](https://sessionize.com/saoussen-chaabnia/)
