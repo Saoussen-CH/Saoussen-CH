@@ -11,12 +11,12 @@
 I'm a **Google Developer Expert (GDE) in Cloud AI** and an **AI/ML Solutions Engineer** by 
 passion and profession! With hands-on experience designing and deploying production-ready Data, 
 ML, and AI systems on Google Cloud, my work spans AI solution architecture, MLOps, cloud-native 
-pipelines, and applied Generative AI — including LLM-based and agentic systems.
+pipelines, and applied Generative AI, including LLM-based and agentic systems.
 
 As a consultant and community leader, I actively share real-world knowledge through technical 
 articles, open-source projects, talks, and workshops. I'm dedicated to helping developers build 
 scalable, practical AI solutions using Google technologies, bridging the gap between 
-experimental AI and enterprise-grade implementation — and I believe in harnessing the power of 
+experimental AI and enterprise-grade implementation and I believe in harnessing the power of 
 AI to level up both businesses and people's lives. I invite you to join me on the ride! 🚀
 
 - Currently building and architecting  **Multi-Agent AI Systems**, **Agentic AI**, and **Production MLOps**
