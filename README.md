@@ -8,7 +8,16 @@
 [![Substack](https://img.shields.io/badge/Substack-Subscribe-FF6719?style=flat-square&logo=substack&logoColor=white)](https://saoussenchaabnia.substack.com/)
 [![Sessionize](https://img.shields.io/badge/Sessionize-Speaker-1AB394?style=flat-square&logo=sessionize&logoColor=white)](https://sessionize.com/saoussen-chaabnia/)
 ---
-I'm a Machine Learning Engineer by passion and profession! With hands-on experience building and deploying data, machine learning, and AI systems, my work spans AI solution architecture, MLOps, cloud-native pipelines, and applied Generative AI, including LLM-based and agentic systems. I believe in harnessing the power of AI to level up both businesses and people's lives, and I invite you to join me on the ride.
+I'm a **Google Developer Expert (GDE) in Cloud AI** and an **AI/ML Solutions Engineer** by 
+passion and profession! With hands-on experience designing and deploying production-ready Data, 
+ML, and AI systems on Google Cloud, my work spans AI solution architecture, MLOps, cloud-native 
+pipelines, and applied Generative AI — including LLM-based and agentic systems.
+
+As a consultant and community leader, I actively share real-world knowledge through technical 
+articles, open-source projects, talks, and workshops. I'm dedicated to helping developers build 
+scalable, practical AI solutions using Google technologies, bridging the gap between 
+experimental AI and enterprise-grade implementation — and I believe in harnessing the power of 
+AI to level up both businesses and people's lives. I invite you to join me on the ride! 🚀
 
 - Currently building and architecting  **Multi-Agent AI Systems**, **Agentic AI**, and **Production MLOps**
 ---
