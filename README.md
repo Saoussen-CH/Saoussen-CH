@@ -1,5 +1,5 @@
 ## Hi, I'm Saoussen Chaabnia 👋
-**AI/ML Solutions Engineer & consultant** | 3x GCP Certified | Google Developer Expert in Cloud AI | Building Intelligent Systems 
+AI/ML Solutions Engineer & consultant | 3x GCP Certified | Google Developer Expert in Cloud AI | Building Intelligent Systems 
 
 [![GDE Cloud AI](https://img.shields.io/badge/Google-Developer_Expert_in_Cloud_AI-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/profile/u/SaoussenChaabnia)
 [![Portfolio](https://img.shields.io/badge/Portfolio-saoussen--chaabnia--ai.com-00d4ff?style=flat-square&logo=google-chrome&logoColor=white)](https://saoussen-chaabnia-ai.com/)
