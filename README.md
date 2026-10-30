@@ -24,7 +24,7 @@ AI to level up both businesses and people's lives. I invite you to join me on th
 #### 🏅 Certifications
 [![GCP Agentic Architect](https://img.shields.io/badge/GCP-Agentic_Architect-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/46adfd84-bbfb-42eb-bf21-f63dd5b75742/public_url)
 [![GCP ML Engineer](https://img.shields.io/badge/GCP-ML_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/5455aac3-c76a-4795-bba5-89b3ae70c7f3/public_url)
-[![GCP Cloud Architect](https://img.shields.io/badge/GCP-Cloud_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/4d223114-304b-474f-b28f-5f89b8da0871/public_url)
+[![GCP Cloud Architect](https://img.shields.io/badge/GCP-Cloud_Architect-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/d80051f3-19d3-456f-837c-2fd35de59e91/public_url)
 [![GCP Data Engineer](https://img.shields.io/badge/GCP-Data_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/cf4559f6-49c3-4c78-82d2-f3466a679c24/public_url)
 [![Google PM](https://img.shields.io/badge/Google-Project_Management-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.credly.com/badges/3f310cc0-418c-4a46-a75d-be51f9ec5c42/public_url)
 [![Microsoft AI PM](https://img.shields.io/badge/Microsoft-AI_Product_Manager_Professional-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/JY8VEENB3R4Y)
