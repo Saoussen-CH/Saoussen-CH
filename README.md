@@ -1,5 +1,5 @@
 ## Hi, I'm Saoussen Chaabnia 👋
-AI/ML Solutions Engineer & consultant | 3x GCP Certified | Google Developer Expert in Cloud AI | Building Intelligent Systems 
+AI/ML Solutions Engineer & consultant | 4x GCP Certified | Google Developer Expert in Cloud AI | Building Intelligent Systems 
 
 [![GDE Cloud AI](https://img.shields.io/badge/Google-Developer_Expert_in_Cloud_AI-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/profile/u/SaoussenChaabnia)
 [![Portfolio](https://img.shields.io/badge/Portfolio-saoussen--chaabnia--ai.com-00d4ff?style=flat-square&logo=google-chrome&logoColor=white)](https://saoussen-chaabnia-ai.com/)
@@ -22,6 +22,7 @@ AI to level up both businesses and people's lives. I invite you to join me on th
 - Currently building and architecting  **Multi-Agent AI Systems**, **Agentic AI**, and **Production MLOps**
 ---
 #### 🏅 Certifications
+[![GCP Agentic Architect](https://img.shields.io/badge/GCP-Agentic_Architect-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/46adfd84-bbfb-42eb-bf21-f63dd5b75742/public_url)
 [![GCP ML Engineer](https://img.shields.io/badge/GCP-ML_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/5455aac3-c76a-4795-bba5-89b3ae70c7f3/public_url)
 [![GCP Cloud Engineer](https://img.shields.io/badge/GCP-Cloud_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/4d223114-304b-474f-b28f-5f89b8da0871/public_url)
 [![GCP Data Engineer](https://img.shields.io/badge/GCP-Data_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/cf4559f6-49c3-4c78-82d2-f3466a679c24/public_url)
